@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: "Miscellaneous Stuff"
 permalink: /miscc/
 author_profile: true
 redirect_from:
-  - /miscellaneous
+  - /miscellaneousstuff
 ---
 
 
