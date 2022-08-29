@@ -42,7 +42,7 @@ Publications
   
 Talks
 ======
- * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory reading seminar organized by Amartya Shekhar, Vaibhav Sutrave, and myself.
+ * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory reading seminar organized by Amartya, Vaibhav, Varun (see Miscellaneous page) and myself.
   
 Teaching
 ======
