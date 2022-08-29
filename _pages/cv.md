@@ -42,7 +42,7 @@ Publications
   
 Talks
 ======
- * No talks on anything I've done myself yet, but here's a talk I did on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity for a reading group with a few friends: https://youtu.be/9uUiMoB8A9g.
+ * No talks on anything I've done myself yet, but [here's](https://youtu.be/9uUiMoB8A9g) a talk I did on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity for a reading group with a few friends.
   
 Teaching
 ======
