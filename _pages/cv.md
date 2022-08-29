@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, UCLA, 2025 (expected)
 
-Work experience
+(Relevant) Courses
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021
+  * Math 210A (Graduate Algebra)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2021-2022
+  * Math 210B (Graduate Algebra, pt 2)
+  * Math 212A (Homological Algebra)
+  * Math 191 (Ramsey Theory)
+
+* Spring 2022
+  * Math 210C (Graduate Algebra, pt 3)
+  * Math 225C (Algebraic Topology)
+  * Math 229A (Lie Groups and Lie Algebras)
+  * Math 235 (Topics in Manifold Theory, on Khovanov Homology)
+
+* Fall 2022 (Planned)
+  * Math 205A (Algebraic Number Theory)
+  * Math 215A (Commutative Algebra)
+  * Math 216A (Topics in Algebra, on Higher Representation Theory)
+  * Math 225A (Differential Topology)
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * N/A
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * No talks on anything I've done myself yet, but here's a talk I did on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity for a reading group with a few friends: https://youtu.be/9uUiMoB8A9g.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * I taught a Math 197 under the supervision of Professor Balmer during Summer 2022, where I gave weekly lectures on higher algebraic K theory following (in part) Weibel, and also Quillen's original paper on the subject.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
