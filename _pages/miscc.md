@@ -1,12 +1,21 @@
 ---
 layout: archive
-title: "Miscellaneous Stuff"
+title: "Miscellaneous"
 permalink: /miscc/
 author_profile: true
 redirect_from:
-  - /miscellaneousstuff
+  - /miscellaneous
 ---
 
 
-**Friends Profiles**
+Friends Profiles
+====
+
 [Amartya Shekhar Dubey](https://amartyasd.github.io/)
+====
+
+[Varun (Rooney) Malladi](https://varunmalladi.github.io/)
+======
+
+[Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
+======
