@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year undergraduate at UCLA. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD.  To be expanded on at some point (hopefully).
+My name is Logan Hyslop, and I am currently a second year undergraduate at UCLA. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD.  To be expanded on at some point (hopefully).
 
 Interests
 ======
