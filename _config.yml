@@ -65,6 +65,7 @@ social:
 
 
 # Analytics
+google_analytics: G-SLSM252EVL
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
