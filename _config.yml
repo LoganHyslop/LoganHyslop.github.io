@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Logan Hyslop"
 title_separator          : "|"
-name                     : &name "Logan Hyslop"
-description              : &description "Logan Hyslop | undergraduate mathematics student at UCLA."
+name                     : "Logan Hyslop"
+description              : "Logan Hyslop | undergraduate mathematics student at UCLA."
 url                      : "https://LoganHyslop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LoganHyslop.github.io"
@@ -65,11 +65,10 @@ social:
 
 
 # Analytics
-google_analytics: 
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-SLSM252EVL"
+    tracking_id          : "G-SLSM252EVL"
 
 
 # Site Author
@@ -89,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "LoganHyslop"
   google_plus      :
   keybase          :
   instagram        :
