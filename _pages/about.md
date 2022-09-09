@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ramblings of an Aspiring Infinity Cosmologist"
-excerpt: "About me"
+excerpt: "Ramblings of an Aspiring Infinity Cosmologist"
 author_profile: true
 redirect_from: 
   - /about/
