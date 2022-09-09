@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Logan Hyslop"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Logan Hyslop"
-description              : &description "Undergraduate at UCLA."
-url                      : https://LoganHyslop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Logan Hyslop | undergraduate mathematics student at UCLA."
+url                      : "https://LoganHyslop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LoganHyslop.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -51,7 +51,7 @@ atom_feed:
 
 # SEO Related
 google_site_verification : "dB4viAuxqZdr9yt7wQtlMiq0-sTl1FL6qamyRvxUgI8"
-bing_site_verification   :
+bing_site_verification   : "4F358E347F1D4EF7183539FED1BBFD8C"
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -65,11 +65,11 @@ social:
 
 
 # Analytics
-google_analytics: G-SLSM252EVL
+google_analytics: 
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-SLSM252EVL"
 
 
 # Site Author
