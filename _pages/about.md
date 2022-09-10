@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Ramblings of an Aspiring Infinity Cosmologist"
-excerpt: "Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA."
+excerpt: "Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD.  To be expanded on at some point (hopefully).
+Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD.  To be expanded on at some point (hopefully).
 
 ## Interests
 
