@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Logan Hyslop"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Logan Hyslop"
-description              : &description "Aspiring mathematician, undergraduate student at UCLA."
+description              : &description "Hello there.  My name is Logan Hyslop,  I am currently a second year undergraduate at UCLA, and this is my webpage.  I am broadly interested in math, more specifically in different flavors of abstract nonsense."
 url                      : https://LoganHyslop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LoganHyslop/LoganHyslop.github.io"
