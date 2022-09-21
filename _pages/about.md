@@ -20,3 +20,4 @@ Here's a (non-exhaustive) list of some of the books/lecture notes that I am curr
 * [Lectures in Analytic Geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf)
 * [Elements of Infinity Category Theory](https://emilyriehl.github.io/files/elements.pdf)
 * [Homological Theory of Representations](https://www.math.uni-bielefeld.de/~hkrause/HomTheRep.pdf)
+* [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
