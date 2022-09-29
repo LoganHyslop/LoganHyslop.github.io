@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ramblings of an Aspiring Infinity Cosmologist"
+title: "Ramblings of an Aspiring Mathematician"
 excerpt: "Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math."
 author_profile: true
 redirect_from: 
