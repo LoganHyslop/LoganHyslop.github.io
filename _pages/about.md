@@ -12,7 +12,7 @@ Hello, my name is Logan Hyslop, and I am currently a second year undergraduate a
 
 ## Interests
 
-At the moment, I find myself broadly (though not an exhaustive list) interested in condensed math and analytic geometry, higher category theory, higher representation theory, Khovanov homology, and tensor triangulated geometry.
+At the moment, I find myself broadly interested in homotopy theory and related flavors of general abstract nonsense, including condensed math and analytic geometry, higher category theory, higher algebra, equivariant homotopy theory, and tensor triangular geometry.  I am also somewhat interested in number theory (especially in learning about its connections to homotopy theory).
 
 ## What I'm Reading
 
