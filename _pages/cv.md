@@ -38,14 +38,16 @@ Education
 
 Publications
 ======
-  * N/A
+  * N/A (For now)
   
 Talks
 ======
- * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory reading seminar organized by Amartya, Vaibhav, Varun (see Miscellaneous page) and myself.
+ * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory  reading seminar organized by Amartya, Vaibhav, Varun (see Miscellaneous page) and myself.  [Chapter 2](https://www.youtube.com/watch?v=6FPgUGhG-rI) of Elements as a part of the same learning seminar.
   
 Teaching
 ======
   * I taught a Math 197 under the supervision of Professor Balmer during Summer 2022, where I gave weekly lectures on higher algebraic K theory following (in part) Weibel, and also Quillen's original paper on the subject.
   
-
+Related Things
+======
+  * During Fall 2022, I am organizing a reading group on Lurie's Higher Algebra with some people at my school.
