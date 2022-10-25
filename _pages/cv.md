@@ -36,10 +36,6 @@ Education
   * Math 225A (Differential Topology)
 
 
-Publications
-======
-  * N/A (For now)
-  
 Talks
 ======
  * I gave a talk introducing ordinary Lambda-adic modular forms, and describing a structure theorem for them in the UCLA participating number theory seminar on 10/25/2022.
@@ -53,3 +49,8 @@ Teaching
 Related Things
 ======
   * During Fall 2022, I am organizing a reading group on Lurie's Higher Algebra with some people at my school.
+
+Publications
+======
+  * N/A (For now)
+  
