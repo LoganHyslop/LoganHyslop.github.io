@@ -50,7 +50,4 @@ Related Things
 ======
   * During Fall 2022, I am organizing a reading group on Lurie's Higher Algebra with some people at my school.
 
-Publications
-======
-  * N/A (For now)
-  
+
