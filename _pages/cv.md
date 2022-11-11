@@ -47,7 +47,7 @@ Teaching
 ======
   * I taught a Math 197 under the supervision of Professor Balmer during Summer 2022, where I gave weekly lectures on higher algebraic K theory following (in part) Weibel's K book, and Quillen's original paper on the subject.
   
-Related Things
+Organizational
 ======
   * During Fall 2022, I am organizing a reading group on Lurie's Higher Algebra along with some friends at my school.
 
