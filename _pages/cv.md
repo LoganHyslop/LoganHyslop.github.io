@@ -39,7 +39,7 @@ Education
 Talks
 ======
  * I gave a talk introducing condensed math and analytic geometry in the [study seminar on homotopy theory and applications](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) on 11/11/2022, presenting topics out of Clausen and Scholze's lectures on [condensed math](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf) and [analytic geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf).  (The video should be available at the link on researchseminars.org).
- * I gave a talk introducing ordinary Lambda-adic modular forms, and describing a structure theorem for them in the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) on 10/25/2022.
+ * I gave a talk introducing ordinary Lambda-adic modular forms, and describing a structure theorem for them in the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) on 10/25/2022.  <!--- (I survived giving a talk to Professor Hida during the Hida theory seminar!) -->
  * I gave a talk on the Tate construction, and using it to compute the coefficient ring of an RO(G)-graded cohomology theory, following [a paper](https://arxiv.org/abs/1705.09365) of Greenless in the UCLA participating algebraic topology seminar on 10/21/2022.
  * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory  reading seminar organized by Amartya, Vaibhav, Varun (see Miscellaneous page) and myself.  [Chapter 2](https://www.youtube.com/watch?v=6FPgUGhG-rI) of Elements as a part of the same learning seminar.
   
