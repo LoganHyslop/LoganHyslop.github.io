@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD. 
 
-UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo-advisor" (which is something I made up while writing this) is [Paul Balmer](https://www.math.ucla.edu/~balmer/teaching.html).
+UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo-advisor" (which is something I made up while writing this) is [Paul Balmer](https://www.math.ucla.edu/~balmer).
 
 ## Interests
 
