@@ -12,12 +12,21 @@ Hello, my name is Logan Hyslop, and I am currently a second year undergraduate a
 
 ## Interests
 
-At the moment, I find myself broadly interested in homotopy theory and related flavors of general abstract nonsense, including condensed math and analytic geometry, higher category theory, higher algebra, equivariant homotopy theory, and tensor triangular geometry.  I am also somewhat interested in number theory (especially in learning about its connections to homotopy theory).
+Everyone likes the Mumford quote, “[Algebraic geometry] seems to have acquired
+the reputation of being esoteric, exclusive, and very abstract, with adherents who are secretly
+plotting to take over all the rest of mathematics. In one respect this last point is accurate.”
+This description I believe also applies quite aptly to homotopy theory these days, and I'd like to further the plot.
 
-## What I'm Reading
+Here is an amalgum of some specific interests I have (some I am only starting to learn about, and some I have been learning about for some time): tensor triangular geometry, infinity categories and higher algebra, stable/equivariant/chromatic homotopy theory and applications, condensed math/analytic geometry, and recently parts of number theory, especially arithmetic geometry.  I would like to learn more about applications of homotopy theory to physics, and soon plan to start learning trace methods, how equivariant homotopy theory can give approximations to algebraic K theory.
 
-Here's a (non-exhaustive) list of some of the books/lecture notes that I am currently reading (feel free to reach out if you want to talk about any of them):
+## Resources I like
+
+Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have either read or am currently reading which I quite enjoy (feel free to reach out if you want to talk about any of them):
+* [Lectures on Condensed Math](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf)
 * [Lectures in Analytic Geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf)
+* [Categorical Homotopy Theory](https://emilyriehl.github.io/files/cathtpy.pdf)
 * [Elements of Infinity Category Theory](https://emilyriehl.github.io/files/elements.pdf)
+* [Lecture notes for learning E_n algebras](https://www.math.univ-paris13.fr/~harpaz/lecture_notes.pdf)
 * [Homological Theory of Representations](https://www.math.uni-bielefeld.de/~hkrause/HomTheRep.pdf)
 * [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
+* [Equivariant Homotopy Theory Notes](https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf)
