@@ -23,7 +23,7 @@ Here is an amalgum of some specific interests I have (some I am only starting to
 
 ## Resources I like
 
-Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have either read or am currently reading which I quite enjoy (feel free to reach out if you want to talk about any of them):
+Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have come across, and recommend for certain topics
 * [Lectures on Condensed Math](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf)
 * [Lectures in Analytic Geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf)
 * [Categorical Homotopy Theory](https://emilyriehl.github.io/files/cathtpy.pdf)
@@ -32,3 +32,7 @@ Here's a (somewhat unorganized) selection of some of the books/lecture notes tha
 * [Homological Theory of Representations](https://www.math.uni-bielefeld.de/~hkrause/HomTheRep.pdf)
 * [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
 * [Equivariant Homotopy Theory Notes](https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf)
+
+## What I'm Currently Doing
+
+Over Winter break (2022-2023 school year), I am primarily focusing on reading [a paper](https://arxiv.org/pdf/1707.01799.pdf) by Nikolaus and Scholze to learn about topological cyclic homology.   
