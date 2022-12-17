@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math. I will try to update this later with more facts about me, but for now I enjoy sailing, doing math, and I have ADHD. 
+Hello, my name is Logan Hyslop, and I am currently a second year undergraduate at UCLA, where I am studying math.  Some facts about me: I enjoy sailing and doing math, lately I seem to be listening to a lot of Kid Cudi, and I have ADHD.
 
 UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo-advisor" (which is something I made up while writing this) is [Paul Balmer](https://www.math.ucla.edu/~balmer).
 
@@ -21,6 +21,7 @@ This description I believe also applies quite aptly to homotopy theory these day
 
 Here is an amalgum of some specific interests I have (some I am only starting to learn about, and some I have been learning about for some time): tensor triangular geometry, infinity categories and higher algebra, stable/equivariant/chromatic homotopy theory and applications, condensed math/analytic geometry, and recently parts of number theory, especially arithmetic geometry.  I would like to learn more about applications of homotopy theory to physics, and soon plan to start learning trace methods, how equivariant homotopy theory can give approximations to algebraic K theory.
 
+
 ## Resources I like
 
 Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have come across, and recommend for certain topics
@@ -32,6 +33,8 @@ Here's a (somewhat unorganized) selection of some of the books/lecture notes tha
 * [Homological Theory of Representations](https://www.math.uni-bielefeld.de/~hkrause/HomTheRep.pdf)
 * [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
 * [Equivariant Homotopy Theory Notes](https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf)
+
+To insert a shameless plug, here is [You Could've Condensed Mathematics](/files/YouCouldHaveCondensedMath.pdf), slides from a talk I gave designed for undergraduates, which is meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) -->  For a slightly more technical introduction, [here is a video](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) of a talk I gave introducing condensed math and analytic geometry, starting from the beginning and ending with the definition of an analytic space.
 
 ## What I'm Currently Doing
 
