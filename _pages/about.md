@@ -34,7 +34,9 @@ Here's a (somewhat unorganized) selection of some of the books/lecture notes tha
 * [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
 * [Equivariant Homotopy Theory Notes](https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf)
 
-To insert a shameless plug, here is [You Could've Condensed Mathematics](/files/YouCouldHaveCondensedMath.pdf), slides from a talk I gave.  The talk was designed for undergraduates, meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) -->  For a slightly more technical introduction, [here is a video](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) of a talk I gave introducing condensed math and analytic geometry, starting from the beginning and ending with the definition of analytic spaces. (See my CV for more details and more of my talks).
+To insert a shameless plug, [here are slides](/files/YouCouldHaveCondensedMath.pdf) from a talk I gave entitled You Could've Condensed Mathematics.  The talk was designed for undergraduates, meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) -->  
+
+For a more technical introduction, [here is a video](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) of a talk I gave introducing condensed math and analytic geometry, starting from the beginning and ending with the definition of analytic spaces. (See my CV for more details and more of my talks).
 
 ## What I'm Currently Doing
 
