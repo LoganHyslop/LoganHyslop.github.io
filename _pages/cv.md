@@ -16,7 +16,8 @@ Education
 (Relevant) Courses
 ======
 * Winter 2022-2023 (Planned)
-  * Math 212B (Advanced Homological Algebra
+  * Math 207A (Topics in Number Theory, on Abelian Varieties)
+  * Math 212B (Advanced Homological Algebra)
   * Math 214A (Algebraic Geometry)
   * Math 225B (Differential Geometry)
 
