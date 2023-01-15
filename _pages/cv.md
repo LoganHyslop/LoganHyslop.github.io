@@ -15,7 +15,7 @@ Education
 
 (Relevant) Courses
 ======
-* Winter 2022-2023 (Planned)
+* Winter 2022-2023 (In Progress)
   * Math 207A (Topics in Number Theory, on Abelian Varieties)
   * Math 212B (Advanced Homological Algebra)
   * Math 214A (Algebraic Geometry)
@@ -45,7 +45,7 @@ Education
 
 Organizational
 ======
-  * During Winter 2022-2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I will be co-organizing the participating number theory seminar at UCLA, (likely) following the Berkeley lectures on p-adic geometry.
+  * During Winter 2022-2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA, following the Berkeley lectures on p-adic geometry.
 
   * During Fall 2022, I organized a reading group on the first chapter of Lurie's Higher Algebra together with some friends at my school.
 
