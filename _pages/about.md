@@ -38,6 +38,4 @@ To insert a shameless plug, [here are slides](/files/YouCouldHaveCondensedMath.p
 
 For a more technical introduction, [here is a video](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) of a talk I gave introducing condensed math and analytic geometry, starting from the beginning and ending with the definition of analytic spaces. (See my CV for more details and more of my talks).
 
-## What I'm Currently Doing
 
-Over Winter break (2022-2023 school year), I am primarily focusing on reading [a paper](https://arxiv.org/pdf/1707.01799.pdf) by Nikolaus and Scholze to learn about topological cyclic homology.   
