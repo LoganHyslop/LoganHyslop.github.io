@@ -64,5 +64,7 @@ Teaching
   * I taught a Math 197 under the supervision of Professor Balmer during Summer 2022, where I gave weekly lectures on higher algebraic K theory following (in part) Weibel's K book, and Quillen's original paper on the subject.
   
 
-
+Other
+======
+* During Winter 2022-2023, I am doing a DRP with [Matthew Ghermann](https://www.math.ucla.edu/~mgherman/) on Part 1 of [The Algebraic and Geometric Theory of Quadratic Forms](https://sites.ualberta.ca/~karpenko/publ/Kniga.pdf).
 
