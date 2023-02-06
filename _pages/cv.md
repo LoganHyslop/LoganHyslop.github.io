@@ -16,6 +16,7 @@ Education
 (Relevant) Courses
 ======
 * Winter 2022-2023 (In Progress)
+  * Math 197 (Reading Course with Raphael Rouquier on Semi-Topological K Theory)
   * Math 207A (Topics in Number Theory, on Abelian Varieties)
   * Math 212B (Advanced Homological Algebra)
   * Math 214A (Algebraic Geometry)
