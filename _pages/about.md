@@ -14,12 +14,13 @@ UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo
 
 ## Interests
 
+I am primarily interested in homotopy theory and number theory.
+
 Everyone likes the Mumford quote, “[Algebraic geometry] seems to have acquired
 the reputation of being esoteric, exclusive, and very abstract, with adherents who are secretly
 plotting to take over all the rest of mathematics. In one respect this last point is accurate.”     
 This description I believe also applies quite aptly to homotopy theory these days, and I'd like to further the plot.
 
-Here is an amalgum of some specific interests I have (some I am only starting to learn about, and some I have been learning about for some time): tensor triangular geometry, infinity categories and higher algebra, stable/equivariant/chromatic homotopy theory and applications, condensed math/analytic geometry, and recently parts of number theory, especially arithmetic geometry.  I would like to learn more about applications of homotopy theory to physics, and soon plan to start learning trace methods, how equivariant homotopy theory can give approximations to algebraic K theory.
 
 
 ## Resources I like
