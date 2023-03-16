@@ -54,7 +54,7 @@ Organizational
 
 Talks
 ======
- * 03/15/2023:  I gave the concluding talk in the UCLA Winter Algebra seminar, discussing how to classify semi-simple and reductive groups over an arbitrary field F by studying certain stacks on the pro-etale site of F.
+ * 03/15/2023:  I gave the concluding talk in the UCLA Winter participating Algebra seminar, discussing how to classify semi-simple and reductive groups over an arbitrary field F by studying certain stacks on the pro-etale site of F.
  * 03/07/2023:  Gave a talk on Banach-Colmez spaces for the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/).
  * 02/21/2023:  Gave a talk on Drinfeld's lemma for diamonds in the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/).
  * 11/29/2022:  I gave another talk in the UCLA participating number theory seminar, introducing concepts of nonarchimedean functional analysis, Berkovich spaces, and eigenvarieties.
