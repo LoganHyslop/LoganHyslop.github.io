@@ -52,11 +52,6 @@ Organizational
   * During Fall 2022, I organized a reading group on the first chapter of Lurie's Higher Algebra together with some friends at my school.
 
 
-Expository Notes
-======
-*  [Pro-etale stacks](/files/proetalestack.pdf), notes to accompany a talk I gave on how to use pro-etale descent to classify certain algebraic groups over an arbitrary field, such as 1-dimensional tori. 
-
-
 Talks
 ======
  * 03/15/2023:  I gave the concluding talk in the UCLA Winter participating Algebra seminar, discussing how to classify semi-simple and reductive groups over an arbitrary field F by studying certain stacks on the pro-etale site of F.
