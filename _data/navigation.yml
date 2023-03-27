@@ -3,9 +3,11 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Miscellaneous"
-    url: /miscc/
 
   - title: "Notes"
     url: /Expository/
+
+  - title: "Miscellaneous"
+    url: /miscc/
+
+
