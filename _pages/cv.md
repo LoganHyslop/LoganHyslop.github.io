@@ -15,8 +15,15 @@ Education
 
 (Relevant) Courses
 ======
-* Winter 2022-2023 (In Progress)
-  * Math 197 (Reading Course with Professor Raphael Rouquier on Semi-Topological K Theory)
+* Spring 2023
+  * Math 197 (Reading course with Professor Merkurjev, on Algebraic Cycles)
+  * Math 207C (Topics in Number Theory, Kan seminar style)
+  * Math 214B (Algebraic Geometry pt 2)
+  * Math 226A (Riemannian Geometry)
+  * Math 234 (Topics in Differential Geometry)
+
+* Winter 2022-2023
+  * Math 197 (Reading course with Professor Raphael Rouquier on Semi-Topological K Theory)
   * Math 207A (Topics in Number Theory, on Abelian Varieties)
   * Math 212B (Advanced Homological Algebra)
   * Math 214A (Algebraic Geometry)
@@ -46,8 +53,9 @@ Education
 
 Organizational
 ======
-  * During Winter 2023, under the guidance of Professor Merkurjev, I am organizing the UCLA participating algebra seminar on reductive algebraic groups.
-  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA, following the Berkeley lectures on p-adic geometry.
+  * In Spring 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA, following Hong's notes on p-adic Hodge theory.
+  * During Winter 2023, under the guidance of Professor Merkurjev, I organized the UCLA participating algebra seminar on reductive algebraic groups.
+  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA, following the Berkeley lectures on p-adic geometry.
 
   * During Fall 2022, I organized a reading group on the first chapter of Lurie's Higher Algebra together with some friends at my school.
 
@@ -71,5 +79,5 @@ Teaching
 
 Other
 ======
-* During Winter 2022-2023, I am doing a DRP with [Matthew Ghermann](https://www.math.ucla.edu/~mgherman/) on Part 1 of [The Algebraic and Geometric Theory of Quadratic Forms](https://sites.ualberta.ca/~karpenko/publ/Kniga.pdf).
+* During Winter 2022-2023, I did a DRP with [Matthew Ghermann](https://www.math.ucla.edu/~mgherman/) on Part 1 of [The Algebraic and Geometric Theory of Quadratic Forms](https://sites.ualberta.ca/~karpenko/publ/Kniga.pdf).
 
