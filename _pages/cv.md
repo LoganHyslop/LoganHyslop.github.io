@@ -53,14 +53,18 @@ Education
 
 Organizational
 ======
+  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am once again co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
+
   * During Winter 2023, under the guidance of Professor Merkurjev, I organized the UCLA participating algebra seminar on reductive algebraic groups.
-  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA, following the Berkeley lectures on p-adic geometry.
+  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/ntlearning23W.html) at UCLA, following the Berkeley lectures on p-adic geometry.
 
   * During Fall 2022, I organized a reading group on the first chapter of Lurie's Higher Algebra together with some friends at my school.
 
 
 Talks
 ======
+ * 05/05/2023:  I gave a talk introducing genuine equivariant E infinity rings in the UCLA participating algebraic topology seminar.
+ * 05/03/2023:  Gave a talk on the Fargues-Fontaine curve and period rings for the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/), following [a paper of Morrow](https://www.bourbaki.fr/TEXTES/Exp1150-Morrow.pdf).
  * 03/15/2023:  I gave the concluding talk in the UCLA Winter participating Algebra seminar, discussing how to classify semi-simple and reductive groups over an arbitrary field F by studying certain stacks on the pro-etale site of F.
  * 03/07/2023:  Gave a talk on Banach-Colmez spaces for the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/).
  * 02/21/2023:  Gave a talk on Drinfeld's lemma for diamonds in the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/).
