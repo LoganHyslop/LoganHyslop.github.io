@@ -53,7 +53,7 @@ Education
 
 Organizational
 ======
-  * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am once again co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
+  * During Spring 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am once again co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
 
   * During Winter 2023, under the guidance of Professor Merkurjev, I organized the UCLA participating algebra seminar on reductive algebraic groups.
   * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/ntlearning23W.html) at UCLA, following the Berkeley lectures on p-adic geometry.
