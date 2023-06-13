@@ -63,6 +63,7 @@ Organizational
 
 Talks
 ======
+ * 06/07/2023: Gave the concluding talk in the UCLA participating number theory seminar, discussing Topological Hochschild Homology and Integral p-adic Hodge Theory, and how to compute the p-completed algebraic K-theory of quasiregular semiperfectoid rings.  This is a bridge into our summer seminar on prismatic cohomology (stay tuned).
  * 05/05/2023:  I gave a talk introducing genuine equivariant E infinity rings in the UCLA participating algebraic topology seminar.
  * 05/03/2023:  Gave a talk on the Fargues-Fontaine curve and period rings for the [UCLA participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/), following [a paper of Morrow](https://www.bourbaki.fr/TEXTES/Exp1150-Morrow.pdf).
  * 03/15/2023:  I gave the concluding talk in the UCLA Winter participating Algebra seminar, discussing how to classify semi-simple and reductive groups over an arbitrary field F by studying certain stacks on the pro-etale site of F.
