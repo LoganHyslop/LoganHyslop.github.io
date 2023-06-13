@@ -26,6 +26,7 @@ This description I believe also applies quite aptly to homotopy theory these day
 ## Resources I like
 
 Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have come across, and recommend for certain topics
+* [Notes on Algebraic K-theory](https://florianadler.github.io/AlgebraBonn/KTheory.pdf), these have a particularly nice introduction to spectra and higher algebra that I generally recommend to people who ask for resources for starting out with higher algebra.
 * [Lectures on Condensed Math](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf)
 * [Lectures in Analytic Geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf)
 * [Categorical Homotopy Theory](https://emilyriehl.github.io/files/cathtpy.pdf)
