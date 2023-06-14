@@ -19,3 +19,5 @@ redirect_from:
 * [Varun (Rooney) Malladi](https://varunmalladi.github.io/)
 * [Vaibhav Sutrave](https://vbvstrv.github.io/info.html)
 * [Mel Mokhtarzad](https://mealaud.com/)
+* [Andrea Bourque](https://www.math.lsu.edu/~abour99/)
+* [Zachary Baugher](https://www.math.ucla.edu/~zmb/)
