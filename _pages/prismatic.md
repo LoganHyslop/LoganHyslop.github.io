@@ -14,6 +14,7 @@ Here is the [syllabus](https://www.overleaf.com/read/bcscdgtwdqfb) for the semin
 
 Main Talk Series
 ======
+
 | Date  | Title of the talk | Speaker | Video |
 | ------------- | ------------- | ------------- | ------------- |
 | TBA | Talk 1 | TBA | Coming soon to a theater near you |
@@ -21,6 +22,7 @@ Main Talk Series
 
 Applications talks
 ======
+
 | Date  | Title of the talk | Speaker | Video |
 | ------------- | ------------- | ------------- | ------------- |
 |  TBA | Applications 1 | TBA | Coming soon to a theater near you|
