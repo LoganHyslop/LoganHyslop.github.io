@@ -23,11 +23,12 @@ Applications talks
 ======
    Date  | Title of the talk | Speaker | Video 
 --- | --- | --- | --- 
+TBA| Applications 1 | TBA | Coming soon to a theater near you
 
 References
 ======
 
-|   |  |
+|  Title |  Authors |
 | ------------- | ------------- |
 | [Prisms and Prismatic Cohomology](https://arxiv.org/pdf/1905.08229.pdf) | Bhargav Bhatt and Peter Scholze | 
 | [Kedlaya's Notes on Prismatic Cohomology](https://kskedlaya.org/prismatic/sec_overview.html) | Kiran Kedlaya | 
