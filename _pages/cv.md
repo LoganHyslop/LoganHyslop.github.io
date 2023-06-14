@@ -23,7 +23,7 @@ Education
   * Math 234 (Topics in Differential Geometry)
 
 * Winter 2022-2023
-  * Math 197 (Reading course with Professor Raphael Rouquier on Semi-Topological K Theory)
+  * Math 197 (Reading course with Professor Rouquier on Semi-Topological K Theory)
   * Math 207A (Topics in Number Theory, on Abelian Varieties)
   * Math 212B (Advanced Homological Algebra)
   * Math 214A (Algebraic Geometry)
@@ -35,6 +35,9 @@ Education
   * Math 216A (Topics in Algebra, on Higher Representation Theory)
   * Math 225A (Differential Topology)
 
+* Summer 2022
+  * Math 197 (Reading course with Professor Balmer where I gave weekly lectures on Weibel's K-book)
+ 
 * Spring 2022
   * Math 210C (Graduate Algebra, pt 3)
   * Math 225C (Algebraic Topology)
@@ -53,7 +56,9 @@ Education
 
 Organizational
 ======
-  * During Spring 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I am once again co-organizing the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
+  *  [Zachary Baugher](
+https://www.math.ucla.edu/~zmb/) and I are organizing the [UCLA number theory learning seminar](/prismatic/) this summer on prismatic cohomology.
+  * During Spring 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
 
   * During Winter 2023, under the guidance of Professor Merkurjev, I organized the UCLA participating algebra seminar on reductive algebraic groups.
   * During Winter 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/ntlearning23W.html) at UCLA, following the Berkeley lectures on p-adic geometry.
@@ -76,10 +81,7 @@ Talks
  * 10/21/2022: Gave a talk on the Tate construction, and using it to compute the coefficient ring of an RO(G)-graded cohomology theory, following [a paper](https://arxiv.org/abs/1705.09365) of Greenless in the UCLA participating algebraic topology seminar.
  * [A talk](https://youtu.be/9uUiMoB8A9g) I gave on Chapter 1 of Elements of Infinity Category Theory by Riehl and Verity as a part of a higher category theory  reading seminar organized by Amartya, Vaibhav, Varun (see Miscellaneous page) and myself.  [Chapter 2](https://www.youtube.com/watch?v=6FPgUGhG-rI) of Elements as a part of the same learning seminar.
   
-Teaching
-======
-  * I taught a Math 197 under the supervision of Professor Balmer during Summer 2022, where I gave weekly lectures on higher algebraic K theory following (in part) Weibel's K book, and Quillen's original paper on the subject.
-  
+
 
 Other
 ======
