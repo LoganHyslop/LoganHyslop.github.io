@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 [UCLA Number Theory Seminar Summer 2023 on Prismatic Cohomology](/prismatic/)
-====
+==
