@@ -3,13 +3,13 @@ main:
     
   - title: "CV"
     url: /cv/
-
-  - title: "Notes"
-    url: /Expository/
     
   - title: "Seminars"
     url: /seminars/
     
+  - title: "Notes"
+    url: /Expository/
+
   - title: "Miscellaneous"
     url: /miscc/
 
