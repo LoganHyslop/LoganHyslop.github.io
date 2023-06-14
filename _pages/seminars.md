@@ -7,4 +7,4 @@ redirect_from:
   - /seminars
 ---
 
-[UCLA Number Theory Summer 2023 Seminar on Prismatic Cohomology](/prismatic/)
+
