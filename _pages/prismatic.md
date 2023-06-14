@@ -16,14 +16,14 @@ Main Talk Series
 ======
  Date  | Title of the talk | Speaker | Video 
 --- | --- | --- | --- 
-TBA| Talk 1 | TBA | Coming soon to a theater near you
+TBA | Talk 1 | TBA | Coming soon to a theater near you
 
 
 Applications talks
 ======
    Date  | Title of the talk | Speaker | Video 
 --- | --- | --- | --- 
-TBA| Applications 1 | TBA | Coming soon to a theater near you
+TBA | Applications 1 | TBA | Coming soon to a theater near you
 
 References
 ======
