@@ -16,7 +16,7 @@ Main Talk Series
 ======
  Date  | Title of the talk | Speaker | Video 
 --- | --- | --- | --- 
-<!-- *November 27* | An Introduction to Spectra and Localisation | Amartya | [Video](https://www.youtube.com/watch?v=JIJNax67DL8),[Notes](https://drive.google.com/file/d/16rI4UJBx6TPsgc8Q8wu6eb6aDOlPNYsv/view?usp=sharing)  -->
+TBA| Talk 1 | TBA | Coming soon to a theater near you
 
 
 Applications talks
