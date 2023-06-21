@@ -17,7 +17,7 @@ Main Talk Series
 
 | Date  | Title of the talk | Speaker | Video |
 | ------------- | ------------- | ------------- | ------------- |
-| TBA | Talk 1 | TBA | Coming soon to a theater near you |
+| 06/20/2023 | Overview of Prismatic Cohomology | [Avi Zeff](http://www.math.columbia.edu/~avizeff/index.html) | [video](https://youtu.be/N4VPmyxj1Lg) |
  
 
 Applications talks
