@@ -18,7 +18,7 @@ Main Talk Series
 | Date  | Title of the talk | Speaker | Video |
 | ------------- | ------------- | ------------- | ------------- |
 | 06/20/2023 | Overview of Prismatic Cohomology | [Avi Zeff](http://www.math.columbia.edu/~avizeff/index.html) | [video](https://youtu.be/N4VPmyxj1Lg), [slides written by Avi](/files/AviSlides.pdf) |
- 
+| 06/27/2023 | δ-Rings | [Zachary Baugher](https://www.math.ucla.edu/~zmb/) | [video](https://youtu.be/DVj0gjGdhgk)|
 
 Applications talks
 ======
