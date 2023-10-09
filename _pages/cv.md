@@ -15,6 +15,11 @@ Education
 
 (Relevant) Courses
 ======
+* Fall 2023
+  * Math 207A (Topics in Number Theory, Modular Forms)
+  * Math 226B (Topics in Differential Geometry, Fukaya Categories)
+  * Math 227A (Algebraic Topology)
+  * Math 246A (Graduate Complex Analysis, pt 1)
 * Spring 2023
   * Math 197 (Reading course with Professor Merkurjev, on Algebraic Cycles)
   * Math 207C (Topics in Number Theory, Kan seminar style)
@@ -45,7 +50,7 @@ Education
   * Math 235 (Topics in Manifold Theory, on Khovanov Homology)
 
 * Winter 2021-2022
-  * Math 210B (Graduate Algebra, pt 2)
+  * Math 210B ( Algebra, pt 2)
   * Math 212A (Homological Algebra)
   * Math 191 (Ramsey Theory)
 
