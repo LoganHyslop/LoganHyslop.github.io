@@ -10,4 +10,9 @@ This is a website for the Fall 2023 Algebraic Topology participating seminar, wh
 
 | Date  | Title of the talk | Speaker |
 | ------------- | ------------- | ------------- | 
-| 10/06/2023 | Overview of Adams Spectral Sequences | Spencer Martin |
+| 10/06/2023 | Overview of Spectral Sequences | Spencer Martin |
+| 10/13/2023 | Computations with the Serre Spectral Sequence | [Zach Baugher](https://www.math.ucla.edu/~zmb/) |
+| 10/20/2023 | Construction of Spectral Sequences | [William Chang](https://williamc.me/) |
+| 10/27/2023 | Triangulated Categories and Derived Functors | [Sam Qunell](https://www.math.ucla.edu/~sdqunell/) |
+| 11/03/2023 | Overview of Spectra | [Jason Schuchardt](https://www.math.ucla.edu/~jasonsch/) |
+
