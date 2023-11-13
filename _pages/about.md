@@ -14,7 +14,7 @@ UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo
 
 ## Interests
 
-I am primarily interested in homotopy theory, and its applications.
+I am primarily interested in homotopy theory, and its applications- in particular algebraic K-theory and trace methods.
 
 Everyone likes the Mumford quote, “[Algebraic geometry] seems to have acquired
 the reputation of being esoteric, exclusive, and very abstract, with adherents who are secretly
