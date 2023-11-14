@@ -11,7 +11,7 @@ redirect_from:
 
 Papers
 ======
-[Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
+*  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
 
 Education
 ======
