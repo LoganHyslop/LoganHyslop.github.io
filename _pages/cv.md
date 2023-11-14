@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Papers
+======
+[Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
+
 Education
 ======
 * B.S. in Mathematics, UCLA, 2025 (expected)
