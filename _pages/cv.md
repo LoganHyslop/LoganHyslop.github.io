@@ -66,7 +66,7 @@ Education
 
 Organizational
 ======
-  *  Together with Spencer Martin, I am organizing the [Fall 2023 algebraic topology learning seminar](/Fall23AT/) on spectral sequences.
+  *  Together with Spencer Martin, I organized the [Fall 2023 algebraic topology learning seminar](/Fall23AT/) on spectral sequences.
   *  [Zachary Baugher](
 https://www.math.ucla.edu/~zmb/) and I organized the [UCLA number theory learning seminar](/prismatic/) this summer on prismatic cohomology.
   * During Spring 2023, together with [Jacob Swenberg](https://www.math.ucla.edu/~jaswenberg/), I co-organized the [participating number theory seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/) at UCLA on p-adic Hodge Theory.
@@ -79,6 +79,8 @@ https://www.math.ucla.edu/~zmb/) and I organized the [UCLA number theory learnin
 
 Talks
 ======
+ * 12/13/2023: To close out our [participating algebraic topology seminar](/Fall2023AT/), I spoke about how one can use techniques from [Burklund-Pstragowski](https://arxiv.org/pdf/2305.08231.pdf) to determine the E_2 page of a Z-based Adams spectral sequence.
+ * 11/29/2023: In UCLA's participating algebra seminar, I [spoke](https://www.youtube.com/watch?v=JoVjkdEtf8M) about perverse sheaves.
  * 10/13/2023: I talked about the Chekanov-Eliashberg DGA of Legendrian knots in the [UCLA participating topology seminar](https://www.romakrut.com/lch-seminar).
  * 06/07/2023: Gave the concluding talk in the UCLA participating number theory seminar, discussing Topological Hochschild Homology and Integral p-adic Hodge Theory, and how to compute the p-completed algebraic K-theory of quasiregular semiperfectoid rings.
  * 05/05/2023:  I gave a talk introducing genuine equivariant E infinity rings in the UCLA participating algebraic topology seminar.
