@@ -4,7 +4,7 @@ title: "Winter 2024 Participating Algebraic Topology Seminar: Algebraic K-Theory
 permalink: /Winter24AT/
 author_profile: true
 redirect_from:
-  - /Fall23AT
+  - /Winter24AT
 ---
 This is a website for the completed Winter 2023 Algebraic Topology participating seminar, where we will discuss Algebraic K-Theory.
 
