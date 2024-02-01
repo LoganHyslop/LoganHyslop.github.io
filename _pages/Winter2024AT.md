@@ -10,4 +10,6 @@ This is a website for the completed Winter 2023 Algebraic Topology participating
 
 | Date  | Title of the talk | Speaker |
 | ------------- | ------------- | ------------- | 
-| 11/19/2024 | Introduction and Overview | Logan Hyslop |
+| 01/19/2024 | Introduction and Overview | Logan Hyslop |
+| 01/26/2024 | Categorifying Reduced Rings| [Max Steinberg](https://max.steinbergfour.com/) |
+| 02/02/2024 | Milnor K-Theory | [Zachary Baugher](https://www.math.ucla.edu/~zmb/) |
