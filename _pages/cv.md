@@ -19,6 +19,12 @@ Education
 
 (Relevant) Courses
 ======
+* Winter 2024
+  * Math 205B (Special Values of L-Functions)
+  * Math 207B (Topics in Number Theory, Modular Forms pt 2, p-adic modular forms)
+  * Math 227B (Algebraic Topology, pt 2)
+  * Math 246B (Graduate Complex Analysis, pt 2)
+  * Math 255A (Functional Analysis)
 * Fall 2023
   * Math 197 (Reading course with Professor Hill, on the Kervaire Invariant one Problem)
   * Math 207A (Topics in Number Theory, Modular Forms)
@@ -66,6 +72,8 @@ Education
 
 Organizational
 ======
+  *  [Jas Singh](https://www.math.ucla.edu/~jas/) and I are organizing the [Winter 2024 algebra learning seminar](https://www.math.ucla.edu/~jas/seminars/motivic-cohomology-W24/index.html) on intersection theory and motivic cohomology.
+  *  With Spencer Martin, I am organizing the [Winter 2024 algebraic topology learning seminar](/Winter24AT/) on algebraic K-theory.
   *  Together with Spencer Martin, I organized the [Fall 2023 algebraic topology learning seminar](/Fall23AT/) on spectral sequences.
   *  [Zachary Baugher](
 https://www.math.ucla.edu/~zmb/) and I organized the [UCLA number theory learning seminar](/prismatic/) this summer on prismatic cohomology.
@@ -79,6 +87,8 @@ https://www.math.ucla.edu/~zmb/) and I organized the [UCLA number theory learnin
 
 Talks
 ======
+ * 01/19/2024:  I gave the introduction and overview talk for the [UCLA participating algebraic topology seminar](/Winter24AT/).
+ * 01/10/2024: I gave the introduction and overview talk for the [UCLA participating algebra seminar](https://www.math.ucla.edu/~jas/seminars/motivic-cohomology-W24/index.html).
  * 12/13/2023: To close out our [participating algebraic topology seminar](/Fall2023AT/), I spoke about how one can use techniques from [Burklund-Pstragowski](https://arxiv.org/pdf/2305.08231.pdf) to determine the E_2 page of a Z-based Adams spectral sequence.
  * 11/29/2023: In UCLA's participating algebra seminar, I [spoke](https://www.youtube.com/watch?v=JoVjkdEtf8M) about perverse sheaves.
  * 10/13/2023: I talked about the Chekanov-Eliashberg DGA of Legendrian knots in the [UCLA participating topology seminar](https://www.romakrut.com/lch-seminar).
