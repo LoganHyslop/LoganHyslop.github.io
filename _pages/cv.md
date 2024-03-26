@@ -87,6 +87,9 @@ https://www.math.ucla.edu/~zmb/) and I organized the [UCLA number theory learnin
 
 Talks
 ======
+ * 03/05/2024:  Spoke in the UCLA participating number theory seminar about how Drinfeld modules can be realized as a special case of shtukas.
+ * 03/06/2024:  Spoke in the [UCLA participating algebra seminar](https://www.math.ucla.edu/~jas/seminars/motivic-cohomology-W24/index.html) on how the existence of a motivic t-structure implies Grothendieck's standard conjectures.
+ * 02/02/2024:  I gave a talk about Hochschild homology and topological Hochschild homology in the [UCLA participating algebraic topology seminar](/Winter24AT/).
  * 01/19/2024:  I gave the introduction and overview talk for the [UCLA participating algebraic topology seminar](/Winter24AT/).
  * 01/10/2024: I gave the introduction and overview talk for the [UCLA participating algebra seminar](https://www.math.ucla.edu/~jas/seminars/motivic-cohomology-W24/index.html).
  * 12/13/2023: To close out our [participating algebraic topology seminar](/Fall2023AT/), I spoke about how one can use techniques from [Burklund-Pstragowski](https://arxiv.org/pdf/2305.08231.pdf) to determine the E_2 page of a Z-based Adams spectral sequence.
