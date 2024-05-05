@@ -23,18 +23,7 @@ This description I believe also applies quite aptly to homotopy theory these day
 
 
 
-## Resources I like
-
-Here's a (somewhat unorganized) selection of some of the books/lecture notes that I have come across, and recommend for certain topics
-* [Notes on Algebraic K-theory](https://florianadler.github.io/AlgebraBonn/KTheory.pdf), these have a particularly nice introduction to spectra and higher algebra that I generally recommend to people who ask for resources for starting out with higher algebra.
-* [Lectures on Condensed Math](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf)
-* [Lectures in Analytic Geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf)
-* [Categorical Homotopy Theory](https://emilyriehl.github.io/files/cathtpy.pdf)
-* [Elements of Infinity Category Theory](https://emilyriehl.github.io/files/elements.pdf)
-* [Lecture notes for learning E_n algebras](https://www.math.univ-paris13.fr/~harpaz/lecture_notes.pdf)
-* [Homological Theory of Representations](https://www.math.uni-bielefeld.de/~hkrause/HomTheRep.pdf)
-* [Differential Cohomology](https://arxiv.org/pdf/2109.12250.pdf)
-* [Equivariant Homotopy Theory Notes](https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf)
+## Miscellaneous
 
 To insert a shameless plug, [here are slides](/files/YouCouldHaveCondensedMath.pdf) from a talk I gave entitled You Could've Condensed Mathematics.  The talk was designed for undergraduates, meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) -->  
 
