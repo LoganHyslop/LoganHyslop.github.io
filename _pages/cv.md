@@ -20,6 +20,11 @@ Education
 
 (Relevant) Courses
 ======
+* Spring 2024
+  * Math 207C (Modular Forms, pt. 3, Sharifi's Conjectures)
+  * Math 216A (Geometric Representation Theory)
+  * Math 226C (Kahler Geometry)
+  * Math 235 (Grid Homology)
 * Winter 2024
   * Math 205B (Special Values of L-Functions)
   * Math 207B (Topics in Number Theory, Modular Forms pt 2, p-adic modular forms)
