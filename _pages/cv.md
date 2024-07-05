@@ -11,6 +11,7 @@ redirect_from:
 
 Papers
 ======
+*  [Towards the Nerves of Steel Conjecture](/files/NervesOfSteel.pdf), still in drafting stage, not yet ready to put up as a preprint.
 *  [A Nygaard Approach to Values of Zeta Functions of Schemes over Finite Fields](https://arxiv.org/abs/2404.18367)
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
 
