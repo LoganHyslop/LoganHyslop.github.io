@@ -11,7 +11,7 @@ redirect_from:
 
 Papers
 ======
-*  [Towards the Nerves of Steel Conjecture](/files/NervesOfSteel.pdf), still in drafting stage, not yet ready to put up as a preprint.
+*  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)
 *  [A Nygaard Approach to Values of Zeta Functions of Schemes over Finite Fields](https://arxiv.org/abs/2404.18367)
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
 
@@ -21,6 +21,11 @@ Education
 
 (Relevant) Courses
 ======
+* Fall 2024
+    * Math 226B (Symplectic Geometry)
+    * Math 245A (Graduate Real Analysis, pt 1)
+    * Math 253A (Several Complex Variables)
+    * Math 259A (Operator Algebras)
 * Spring 2024
   * Math 207C (Modular Forms, pt. 3, Sharifi's Conjectures)
   * Math 216A (Geometric Representation Theory)
