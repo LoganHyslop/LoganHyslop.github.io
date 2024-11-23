@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, my name is Logan Hyslop, and I am currently a rising fourth year undergraduate at UCLA, where I am studying math.  Some facts about me: I enjoy sailing and doing math, lately I seem to be listening to a lot of Kid Cudi, and I have ADHD.
 
-UCLA doesn't really have undergraduate theses/advisors, but I suppose my "pseudo-advisor" (which is something I made up while writing this) is [Paul Balmer](https://www.math.ucla.edu/~balmer).
+I am unofficially advised by [Paul Balmer](https://www.math.ucla.edu/~balmer).
 
 ## Interests
 
