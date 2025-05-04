@@ -21,3 +21,4 @@ redirect_from:
 * [Mel Mokhtarzad](https://mealaud.com/)
 * [Andrea Bourque](https://www.math.lsu.edu/~abour99/)
 * [Zachary Baugher](https://www.math.ucla.edu/~zmb/)
+* [Kelanu Ranganath](https://kelanu.com/)
