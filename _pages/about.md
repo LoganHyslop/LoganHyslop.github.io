@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Logan Hyslop, I like math.  I'll be a PhD student at Harvard this fall.
+Hello, my name is Logan Hyslop, I like math.  I am a PhD student at Harvard this fall.
 
 Some facts about me: I enjoy sailing and doing math, lately I seem to be listening to a lot of Kid Cudi, and I have ADHD.
 
-Currently I am at UCLA, where I am unofficially advised by [Paul Balmer](https://www.math.ucla.edu/~balmer).
+Before this I am at UCLA, where I was unofficially advised by [Paul Balmer](https://www.math.ucla.edu/~balmer).
 
 ## Interests
 
