@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Logan Hyslop, I like math.  I am a PhD student at Harvard this fall.
+Hello, my name is Logan Hyslop, I like math.  I am a PhD student at Harvard.
 
 Some facts about me: I enjoy sailing and doing math, lately I seem to be listening to a lot of Kid Cudi, and I have ADHD.
 
