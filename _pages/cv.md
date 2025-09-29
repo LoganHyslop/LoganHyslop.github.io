@@ -12,7 +12,7 @@ redirect_from:
 Papers
 ======
 *  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)
-*  [A Nygaard Approach to Values of Zeta Functions of Schemes over Finite Fields](https://arxiv.org/abs/2404.18367)
+*  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367) (update to appear, for now see [the pdf version here](/files/SpecialValSemisimple.pdf))
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
 
 Education
