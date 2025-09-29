@@ -17,7 +17,7 @@ Papers
 
 Education
 ======
-* B.S. in Mathematics, UCLA, 2025 (expected)
+* B.S. in Mathematics, UCLA, 2025
 
 (Relevant) Courses
 ======
