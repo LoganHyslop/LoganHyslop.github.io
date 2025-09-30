@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Papers
+Papers and Preprints
 ======
-*  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)
-*  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367) (update to appear, for now see [the pdf version here](/files/SpecialValSemisimple.pdf))
-*  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)
+*  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)- Journal of Algebra, [temporary free share link](https://authors.elsevier.com/a/1llEd4%7EFPMJ3I), [permanent journal link](https://www.sciencedirect.com/science/article/abs/pii/S0021869325005010)
+*  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367)
+*  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)- to appear in Algebraic and Geometric Topology
 
 Education
 ======
