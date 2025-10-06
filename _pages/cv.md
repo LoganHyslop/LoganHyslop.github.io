@@ -15,6 +15,10 @@ Papers and Preprints
 *  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367)
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)- to appear in Algebraic and Geometric Topology
 
+In preparation
+======
+*  Against the Nerves of Steel Conjecture (joint with Tobias Barthel and Maxime Ramzi)
+
 Education
 ======
 * B.S. in Mathematics, UCLA, 2025
