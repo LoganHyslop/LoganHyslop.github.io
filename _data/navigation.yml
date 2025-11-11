@@ -4,9 +4,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Seminars"
-    url: /seminars/
-    
   - title: "Notes"
     url: /Expository/
 
