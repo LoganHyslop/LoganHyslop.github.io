@@ -2,7 +2,7 @@
 layout: archive
 title: "Learning Seminars"
 permalink: /seminars/
-author_profile: true
+author_profile: false
 redirect_from:
   - /seminars
 ---
