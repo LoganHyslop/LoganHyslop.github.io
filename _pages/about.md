@@ -34,6 +34,6 @@ This description I believe also applies quite aptly to homotopy theory these day
 
 ## Miscellaneous
 
-To insert a shameless plug, [here are slides](/files/YouCouldHaveCondensedMath.pdf) from a talk I gave entitled You Could've Condensed Mathematics.  The talk was designed for undergraduates, meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) -->  
+To insert a shameless plug, [here are slides](/files/YouCouldHaveCondensedMath.pdf) from a talk I gave entitled You Could've Condensed Mathematics.  The talk was designed for undergraduates, meant to be a very non-technicaly introduction to some of the ideas of condensed math.<!--- (Note to self, eventually try to make slides for an analysis-oriented audience with more details) 
 
 For a more technical introduction, [here is a video](https://researchseminars.org/talk/HomotopyTheoryAndApps/46/) of a talk I gave introducing condensed math and analytic geometry, starting from the beginning and ending with the definition of analytic spaces. (See my CV for more details and more of my talks). -->
