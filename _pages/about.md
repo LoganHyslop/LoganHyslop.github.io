@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Logan Hyslop, I like math.  I am a PhD student at Harvard.
+Hello, my name is Logan Hyslop, I like math.  I am a PhD student at Harvard, where I am currently advised by [Mike Hopkins](https://people.math.harvard.edu/~mjh/).  Before this I was at UCLA, where I was advised by [Paul Balmer](https://www.math.ucla.edu/~balmer).
 
 ## Interests
 
