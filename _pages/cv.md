@@ -11,7 +11,7 @@ redirect_from:
 
 Papers and Preprints
 ======
-*  [Geometric Points in Tensor Triangular Geometry](/GeometricPointsTTGeo.pdf) joint with Tobias Barthel and Maxime Ramzi
+*  [Geometric Points in Tensor Triangular Geometry](/files/GeometricPointsTTGeo.pdf) joint with Tobias Barthel and Maxime Ramzi
 *  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)- Journal of Algebra, [temporary free share link](https://authors.elsevier.com/a/1llEd4%7EFPMJ3I), [permanent journal link](https://www.sciencedirect.com/science/article/abs/pii/S0021869325005010)
 *  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367)
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)- to appear in Algebraic and Geometric Topology
