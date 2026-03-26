@@ -11,16 +11,17 @@ redirect_from:
 
 Papers and Preprints
 ======
+*  [Geometric Points in Tensor Triangular Geometry](/GeometricPointsTTGeo.pdf) joint with Tobias Barthel and Maxime Ramzi
 *  [Towards the Nerves of Steel Conjecture](https://arxiv.org/abs/2410.06320)- Journal of Algebra, [temporary free share link](https://authors.elsevier.com/a/1llEd4%7EFPMJ3I), [permanent journal link](https://www.sciencedirect.com/science/article/abs/pii/S0021869325005010)
 *  [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367)
 *  [Whitehead Filtrations for Computations in Topological Hochschild Homology](http://arxiv.org/abs/2311.06717)- to appear in Algebraic and Geometric Topology
 
-In preparation
-======
-*  Against the Nerves of Steel Conjecture (joint with Tobias Barthel and Maxime Ramzi).
-
 Invited Talks
 ======
+* March 16, 2026, University of Copenhagen Algebra/Topology Seminar - Spoke on my paper Geometric Points in Tensor Triangular Geometry (jt with Barthel and Ramzi)
+* February 3, 2026, University of Warwick Algebraic Topology Seminar - Spoke on my paper Geometric Points in Tensor Triangular Geometry (jt with Barthel and Ramzi)
+* January 30, 2026, University of Bordeaux Number Theory Seminar - Spoke on my paper [Special Values without Semi-Simplicity Via K-Theory](https://arxiv.org/abs/2404.18367)
+* January 21, 2026, University of Wuppertal Seminar Algebra and Topology - Spoke on my paper Geometric Points in Tensor Triangular Geometry (jt with Barthel and Ramzi)
 * May 29, 2025 New Directions in Group Theory and Triangulated Categories- Spoke on my paper [Towards the Nerves of Steel Conjecture](https://youtu.be/gQ8kqvcIa_c?si=m64Yb0gJaWD44Psk)
 * January 2025 JMM Algebraic Topology Satellite Conference- Spoke on my paper Towards the Nerves of Steel Conjecture
 * November 6, 2024 University of Toronto Algebraic Geometry Seminar- Spoke on my paper A Nygaard Approach to Values of Zeta Functions of Schemes over Finite Fields
